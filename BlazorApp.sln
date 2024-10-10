@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\Co
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{3C346819-CE12-4159-BE64-5A12D21969AE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryDatabase", "InMemoryDatabase\InMemoryDatabase.csproj", "{689E9155-83BA-40B4-890E-C04B336DC73B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorApi", "BlazorApi\BlazorApi.csproj", "{2F67C39F-3CBC-4C79-ADE9-84B19D865EAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +34,13 @@ Global
 		{3C346819-CE12-4159-BE64-5A12D21969AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C346819-CE12-4159-BE64-5A12D21969AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C346819-CE12-4159-BE64-5A12D21969AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{689E9155-83BA-40B4-890E-C04B336DC73B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689E9155-83BA-40B4-890E-C04B336DC73B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689E9155-83BA-40B4-890E-C04B336DC73B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689E9155-83BA-40B4-890E-C04B336DC73B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F67C39F-3CBC-4C79-ADE9-84B19D865EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F67C39F-3CBC-4C79-ADE9-84B19D865EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F67C39F-3CBC-4C79-ADE9-84B19D865EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F67C39F-3CBC-4C79-ADE9-84B19D865EAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
